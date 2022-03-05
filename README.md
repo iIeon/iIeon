@@ -28,4 +28,3 @@
 <img src="https://discord.c99.nl/widget/theme-2/713207310121435187.png">
 <h1>My Status in GitHub 📊</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLeon1&layout=compact&theme=synthwave">
-<img src="https://github-readme-stats.vercel.app/api?username=iLeon1&show_icons=true&theme=radical">
