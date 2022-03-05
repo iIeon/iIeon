@@ -4,18 +4,8 @@
 let Leon = {
   name: "Nasser",
   age: "I'm still alive",
-  form: "🇸🇦",
-  
-  skills: {
-    language: ["JS", "React.JS", "Node.JS", "HTML", "CSS"],
-    database: ["MySql", "MongoDB", "Sqlite"]
-  },
-  
-  other_things: {
-    I_resolve_to: ["PhotoShop", "After Effects", "illustrator"]
-  }
+  form: "🇸🇦"
 }
-
 ```
 #
 ### Discord Status
