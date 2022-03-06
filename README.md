@@ -22,7 +22,6 @@
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/50/000000/mongodb.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>        
 </div>
 <h2><img src="https://cdn.discordapp.com/attachments/876647802388750387/949681660515983380/Discord-Logo-700x394.png" height="30px"> Discord Status</h2>
