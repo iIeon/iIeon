@@ -28,5 +28,5 @@
 <h2><img src="https://cdn.discordapp.com/attachments/876647802388750387/949681660515983380/Discord-Logo-700x394.png" height="30px"> Discord Status</h2>
 <img src="https://discord.c99.nl/widget/theme-2/713207310121435187.png">
 <h1>My Status in GitHub 📊</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ileonDev&show icons=true&locale=en&layout=compact&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FnrDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117">
 <img src="https://github-readme-stats.vercel.app/api?username=ileonDev&show_icons=true&title_color=fcd400&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=fcd400&hide_title=true&count_private=true">
