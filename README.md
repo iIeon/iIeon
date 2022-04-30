@@ -7,7 +7,7 @@
  ⌑ I resolve to Photoshop & After Effects & illustrator
 ```
 #
-<a href="https://github.com/ileonDev?tab=My followers">
+<a href="https://github.com/ileonDev?tab=My-followers">
   <img src="https://img.shields.io/github/followers/ileonDev">
 </a>
 <a href="https://github.com/ileonDev">
