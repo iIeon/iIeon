@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>        
 </div>
-<h2><img src="https://static.miraheze.org/freshwebsiteswiki/a/af/Discord_Logo.png" height="30px"> Discord Status</h2>
+<h2>Discord Status 🖥</h2>
 <img src="https://discord.c99.nl/widget/theme-2/713207310121435187.png">
 <h1>My Status in GitHub 📊</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileonDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117">
