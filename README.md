@@ -7,11 +7,11 @@
  ⌑ I resolve to Photoshop & After Effects & illustrator
 ```
 #
-<a href="https://github.com/ileonDev?tab=Followers">
-  <img src="https://img.shields.io/github/followers/ileonDev">
+<a href="https://github.com/iIeon?tab=Followers">
+  <img src="https://img.shields.io/github/followers/iIeon">
 </a>
-<a href="https://github.com/ileonDev">
-   <img src="https://komarev.com/ghpvc/?username=ileonDev">
+<a href="https://github.com/iIeon">
+   <img src="https://komarev.com/ghpvc/?username=iIeon">
 </a>
 
 ## I use these *languages*, *libraries*, and *databases* ⌨
@@ -29,5 +29,5 @@
 <h2>Discord Status 🖥</h2>
 <img src="https://discord.c99.nl/widget/theme-4/713207310121435187.png">
 <h1>My Status in GitHub 📊</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ileonDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117">
-<img src="https://github-readme-stats.vercel.app/api?username=ileonDev&show_icons=true&title_color=fcd400&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=fcd400&hide_title=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iIeon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117">
+<img src="https://github-readme-stats.vercel.app/api?username=iIeon&show_icons=true&title_color=fcd400&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=fcd400&hide_title=true&count_private=true">
