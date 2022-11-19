@@ -3,7 +3,6 @@
 ```
  ⌑ I'm Nasser 🙋‍♂️,
  ⌑ From Saudi Arabia 🇸🇦,
- ⌑ Age 19
  ⌑ I resolve to Photoshop & After Effects & illustrator
 ```
 #
