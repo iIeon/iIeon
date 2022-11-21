@@ -6,9 +6,6 @@
  ⌑ I resolve to Photoshop & After Effects & illustrator
 ```
 #
-<a href="https://github.com/iIeon?tab=Followers">
-  <img src="https://img.shields.io/github/followers/iIeon">
-</a>
 <a href="https://github.com/iIeon">
    <img src="https://komarev.com/ghpvc/?username=iIeon">
 </a>
