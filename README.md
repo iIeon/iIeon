@@ -3,7 +3,7 @@
 ```
  ⌑ I'm Nasser 🙋‍♂️,
  ⌑ From Saudi Arabia 🇸🇦,
- ⌑ Data Science Student
+ ⌑ Data Science Student 📊
 ```
 #
 <a href="https://github.com/iIeon">
