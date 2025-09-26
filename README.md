@@ -1,8 +1,7 @@
 # Welcome To Leon Profile 👋
 ### Who am I?
 ```
- ⌑ I'm Nasser 🙋‍♂️,
- ⌑ From Saudi Arabia 🇸🇦,
+ ⌑ Saudi Arabia,
  ⌑ Data Science Student 📊
 ```
 #
