@@ -20,4 +20,4 @@
 <h1>My Status in GitHub 📊</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iIeon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0d1117">
 <img src="https://github-readme-stats.vercel.app/api?username=iIeon&show_icons=true&title_color=fcd400&text_color=9f9f9f&bg_color=0d1117&hide_border=true&icon_color=fcd400&hide_title=true&count_private=true">
-![](https://github-profile-trophy.vercel.app/?username=iIeon&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4
+![..](https://github-profile-trophy.vercel.app/?username=iIeon&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4
